@@ -14,4 +14,4 @@ This is a practice project to learn GitHub basics.
 apna college sigma student
 # linking git with vs code
 - Today i learned how to connect git with vs code.
-- 
+- Finally i learned to push vs code items in git hub
