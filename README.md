@@ -12,3 +12,6 @@ This is a practice project to learn GitHub basics.
 
 *This README was edited as part of my GitHub learning journey!*# github-program
 apna college sigma student
+# linking git with vs code
+- Today i learned how to connect git with vs code.
+- 
